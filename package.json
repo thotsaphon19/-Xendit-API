@@ -1,0 +1,8 @@
+{
+  "name": "siam-heritage-api",
+  "version": "1.0.0",
+  "description": "Xendit Payment API for Siam Heritage",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
